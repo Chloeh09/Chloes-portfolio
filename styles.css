@@ -1,3 +1,8 @@
 body {
-  background-color: lightblue;
+  background-color: midnightblue;
+  color: white;
+}
+
+ol {
+  list-style-type: none;
 }
